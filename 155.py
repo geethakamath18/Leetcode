@@ -1,4 +1,4 @@
-#LeetCode problem 155: Min Stack
+#LeetCode problem 155: MinStack
 class MinStack:
 
     def __init__(self):
