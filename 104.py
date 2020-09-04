@@ -13,3 +13,4 @@ class Solution:
         r=self.maxDepth(root.right)
         if l>r: return l+1  
         return r+1
+        
